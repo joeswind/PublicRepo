@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Joeswind change1
+=======
+Hello Joeswind change2
+>>>>>>> af263d72088e3ef85f42840c089c8efaae04652b
